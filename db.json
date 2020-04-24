@@ -11,7 +11,7 @@
       "id": 2,
       "title": "qui est esse",
       "body": "fdsafdsfd"
-    },
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
